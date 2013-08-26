@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="PasswordGenerator.NET.frmMain">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>frmMain.vb</FileName>
+      <HashCode>AAgAAAAAECABAAAAIACAAAECAAAIAAAAAACAAAAAAEA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Struct Name="PasswordGenerator.NET.frmMain.strAutresCars" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmMain.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="PasswordGenerator.NET.frmMain.strCars" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmMain.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+  </Class>
+</ClassDiagram>
