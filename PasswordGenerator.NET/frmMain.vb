@@ -274,6 +274,8 @@ Public Class frmMain
 
     Private Sub btnGenerate_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnGenerate.Click
 
+        'Test Github
+
         If cmbNombreCars.Text.Length = 0 Then Exit Sub
 
         Dim i As Integer, j As Integer, cCur As Char, sPass As String, rand As Integer
